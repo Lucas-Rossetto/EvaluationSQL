@@ -1,0 +1,10 @@
+select * from assessment;
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2016-06-08' , '2016-07-12', 10 , 1 , 3);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2016-06-08' , '2016-07-12', 15 , 2 , 1);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2017-06-08' , '2017-07-12', 2 , 3 , 2);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2017-06-08' , '2017-07-12', 12 , 4 , 1);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2018-06-08' , '2018-07-12', 4, 5 , 2);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2018-06-08' , '2018-07-12', 11 , 6 , 1);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2016-06-08' , '2016-07-11', 19 , 2 , 2);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2017-06-08' , '2017-07-12', 18 , 3 , 3);
+insert into etudiant.assessment(attempted , passed , grade , id_module , id_student) values ('2018-06-08' , '2018-07-11', 7, 4 , 3);
